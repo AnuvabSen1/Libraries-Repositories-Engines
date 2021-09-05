@@ -1,2 +1,0 @@
-https://github.com/arduino-libraries/ArduinoCloudThing.git|Arduino,Retired|ArduinoCloudThing
-https://github.com/arduino-libraries/SpacebrewYun.git|Contributed|SpacebrewYun
